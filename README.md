@@ -4,6 +4,8 @@
 
 **This repository is My Final Project in Data Science Dibimbing.Id Bootcamp**. 
 
+In this project I created 2 python files, the first using N-grams for Deep Dive Negative Sentiment Analysis and for this final project while the second uses another approach using Topic Modeling **LDA (Latent Dirichlet Allocation)** to get Topic (Optional). 
+
 ## Project Overview
 
 <p><b>Bukalapak</b> is one of the largest e-commerce companies in Indonesia. In 2022 <b>Bukalapak</b> led digital penetration among warungs in Indonesia with a percentage reaching 56%. Then in May 2023, <b>Bukalapak</b> served at least 130 million users and 16.8 million MSME partners, and processed an average of more than two million daily transactions.
