@@ -42,9 +42,21 @@ In this project I created 2 python files, the first using N-grams for Deep Dive 
   - **Sentiment Labeling**
     
     Positive Sentiment (Rating 4 - 5) and Negative Sentiment (Rating 1 -3)
+    
 - **Exploratory Data Analysis (EDA)**
 - **Modeling and Evaluation**
 
+  In this project, 7 classification models were used and performance evaluation was carried out to determine the best model, such as:
+  - Logistic Regression
+  - KNN
+  - Multinomial Naive Bayes
+  - Decision Tree
+  - Random Forest
+  - LGBM
+  - XGBoost
+    
+  Here are the steps and processes in Machine Learning modeling
+  
   ![modeling process](https://github.com/Rizal-A/Sentiment-Analysis-Bukalapak-Apps/assets/117552819/13207f51-cda2-4d05-8c52-d29e086a49fc)
 
 - **Deep Dive Negative Sentiment**
